@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.19045.4291]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ACER>cd Desktop
+
+C:\Users\ACER\Desktop>git clone https://github.com/mlp-kanitta/node-rds.git
+Cloning into 'node-rds'...
+remote: Enumerating objects: 31, done.
+remote: Counting objects: 100% (31/31), done.
+remote: Compressing objects: 100% (26/26), done.
+remote: Total 31 (delta 15), reused 11 (delta 4), pack-reused 0
+Receiving objects: 100% (31/31), 16.33 KiB | 796.00 KiB/s, done.
+Resolving deltas: 100% (15/15), done.
